@@ -1,4 +1,4 @@
-package `class`
+package `class`.basic
 
 fun main(){
     var a = Prs("awd", 23)
